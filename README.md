@@ -7,3 +7,9 @@ Mempelajari sequelize
 ### Intro
 
 Menghubungkan ke database
+
+## 152. Defining a Model
+
+### Intro
+
+Mendefinisikan model
