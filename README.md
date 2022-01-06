@@ -19,3 +19,9 @@ Mendefinisikan model
 ### Intro
 
 Membuat table berdasarkan model yang sudah dibuat
+
+## 154. Inserting Data & Creating a Product
+
+### Intro
+
+Memasukan data
