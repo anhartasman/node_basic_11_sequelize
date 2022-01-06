@@ -61,3 +61,9 @@ Menghapus data produk
 ### Intro
 
 Membuat model user
+
+## 162. Adding a One-To-Many Relationship
+
+### Intro
+
+Membuat relasi one to many
