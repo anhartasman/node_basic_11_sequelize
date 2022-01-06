@@ -25,3 +25,9 @@ Membuat table berdasarkan model yang sudah dibuat
 ### Intro
 
 Memasukan data
+
+## 156. Retrieving Data & Finding Products
+
+### Intro
+
+Mengambil data dan mencari produk
