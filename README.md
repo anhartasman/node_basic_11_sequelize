@@ -67,3 +67,9 @@ Membuat model user
 ### Intro
 
 Membuat relasi one to many
+
+## 163. Creating & Managing a Dummy User
+
+### Intro
+
+Membuat dan mengatur user dummy
