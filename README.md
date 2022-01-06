@@ -13,3 +13,9 @@ Menghubungkan ke database
 ### Intro
 
 Mendefinisikan model
+
+## 153. Syncing JS Definitions to the Database
+
+### Intro
+
+Membuat table berdasarkan model yang sudah dibuat
