@@ -49,3 +49,9 @@ Mengambil data produk untuk halaman admin
 ### Intro
 
 Mengubah data produk
+
+## 160. Deleting Products
+
+### Intro
+
+Menghapus data produk
