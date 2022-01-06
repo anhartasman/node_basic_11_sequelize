@@ -31,3 +31,9 @@ Memasukan data
 ### Intro
 
 Mengambil data dan mencari produk
+
+## 157. Getting a Single Product with the "where" Condition
+
+### Intro
+
+Mendapatkan data produk dengan where
