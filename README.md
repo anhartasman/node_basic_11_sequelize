@@ -55,3 +55,9 @@ Mengubah data produk
 ### Intro
 
 Menghapus data produk
+
+## 161. Creating a User Model
+
+### Intro
+
+Membuat model user
