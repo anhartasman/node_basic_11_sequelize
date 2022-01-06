@@ -79,3 +79,9 @@ Membuat dan mengatur user dummy
 ### Intro
 
 Menggunakan user yang didapat saat request terjadi
+
+## 165. Fetching Related Products
+
+### Intro
+
+Mengambil daftar produk yang dimiliki user yang sedang login
