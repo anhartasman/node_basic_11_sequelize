@@ -85,3 +85,9 @@ Menggunakan user yang didapat saat request terjadi
 ### Intro
 
 Mengambil daftar produk yang dimiliki user yang sedang login
+
+## 166. One-To-Many & Many-To-Many Relations
+
+### Intro
+
+Relasi one to many dan many to many
