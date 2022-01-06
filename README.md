@@ -37,3 +37,9 @@ Mengambil data dan mencari produk
 ### Intro
 
 Mendapatkan data produk dengan where
+
+## 158. Fetching Admin Products
+
+### Intro
+
+Mengambil data produk untuk halaman admin
