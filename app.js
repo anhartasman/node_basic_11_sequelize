@@ -32,13 +32,9 @@ app.use(shopRoutes);
 
 app.use(errorController.get404);
 Product.belongsTo(User, { constraints: true, onDelete: "CASCADE" });
-// User.hasMany(Product)
-// PENGINGAT
-// force true akan memaksa untuk menghapus
-// seluruh tabel dan membuat ulang,
-// disarankan hanya untuk develop, bukan untuk production
+User.hasMany(Product);
 sequelize
-  .sync({ force: true })
+  .sync()
   .then((result) => {
     return User.findByPk(1);
     // console.log(result);

@@ -73,3 +73,9 @@ Membuat relasi one to many
 ### Intro
 
 Membuat dan mengatur user dummy
+
+## 164. Using Magic Association Methods
+
+### Intro
+
+Menggunakan user yang didapat saat request terjadi
