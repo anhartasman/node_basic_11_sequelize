@@ -43,3 +43,9 @@ Mendapatkan data produk dengan where
 ### Intro
 
 Mengambil data produk untuk halaman admin
+
+## 159. Updating Products
+
+### Intro
+
+Mengubah data produk
