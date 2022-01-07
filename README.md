@@ -115,3 +115,9 @@ Menambah jumlah produk di keranjang
 ### Intro
 
 Menghapus produk di keranjang
+
+## 171. Adding an Order Model
+
+### Intro
+
+Menambah model order
