@@ -127,3 +127,9 @@ Menambah model order
 ### Intro
 
 Menyimpan item keranjang sebagai item orderan
+
+## 173. Resetting the Cart & Fetching and Outputting Orders
+
+### Intro
+
+Menampilkan data orderan
