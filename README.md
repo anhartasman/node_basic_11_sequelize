@@ -121,3 +121,9 @@ Menghapus produk di keranjang
 ### Intro
 
 Menambah model order
+
+## 172. Storing Cartitems as Orderitems
+
+### Intro
+
+Menyimpan item keranjang sebagai item orderan
