@@ -109,3 +109,9 @@ Mamasukkan produk ke keranjang
 ### Intro
 
 Menambah jumlah produk di keranjang
+
+## 170. Deleting Related Items & Deleting Cart Products
+
+### Intro
+
+Menghapus produk di keranjang
