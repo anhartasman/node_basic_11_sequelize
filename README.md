@@ -96,10 +96,16 @@ Relasi one to many dan many to many
 
 ### Intro
 
-Input dan menampilkan data keranjang
+Menciptakan keranjang
 
 ## 168. Adding New Products to the Cart
 
 ### Intro
 
-Menambahkan produk ke keranjang
+Mamasukkan produk ke keranjang
+
+## 169. Adding Existing Products & Retrieving Cart Items
+
+### Intro
+
+Menambah jumlah produk di keranjang
